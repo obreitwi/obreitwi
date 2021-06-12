@@ -2,7 +2,9 @@
 
 This is a first attempt at a profile page, powered by [readme-scribe](https://github.com/muesli/readme-scribe).
 
-I am interested in machine learning, neuromorphic as well as distributed computing and sustainable software-based workflows.
+Currently, I keep the BrainScaleS Neuromorphic Hardware platform up and running while we actively develop it further at @electronicvisions.
+
+Generally, I am interested in machine learning, neuromorphic as well as distributed computing and sustainable software-based workflows.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
