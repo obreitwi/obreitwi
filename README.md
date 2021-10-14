@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (2 weeks ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 month ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (2 months ago)
@@ -32,7 +32,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.0](https://github.com/obreitwi/asfa/releases/tag/v0.9.0), 2 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 3 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
+- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 4 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
 - [electronicvisions/spike-based-sampling](https://github.com/electronicvisions/spike-based-sampling) ([v1.8.2](https://github.com/electronicvisions/spike-based-sampling/releases/tag/v1.8.2), 2 years ago) - Helper library for stochastic LIF sampling in PyNN-supported neural simulators
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) ([v0.1.0](https://github.com/obreitwi/py-veer/releases/tag/v0.1.0), 2 years ago) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
 
@@ -47,8 +47,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### ⭐ Recent Stars
 
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (1 week ago)
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (1 week ago)
-- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH. (1 week ago)
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (2 weeks ago)
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH. (2 weeks ago)
 - [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun) - Utility to run separate X with discrete nvidia graphics with full performance (1 month ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
 
