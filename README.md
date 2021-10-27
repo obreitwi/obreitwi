@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search output (2 days ago)
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results (2 days ago)
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings (1 week ago)
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (3 weeks ago)
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (3 weeks ago)
