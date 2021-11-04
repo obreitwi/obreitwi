@@ -46,11 +46,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) - multi-shell multi-command argument completer (today)
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command-line completion generator for spf13/cobra (today)
 - [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording. (1 day ago)
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results (1 week ago)
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings (3 weeks ago)
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (1 month ago)
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh&#39;s default completion selection menu with fzf! (1 month ago)
 
 #### 📫 How to reach me
 
