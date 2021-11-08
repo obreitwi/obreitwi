@@ -46,11 +46,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (today)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (today)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (3 days ago)
 - [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (3 days ago)
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim (4 days ago)
-- [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) - multi-shell multi-command argument completer (4 days ago)
 
 #### 📫 How to reach me
 
