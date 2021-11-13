@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 days ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 weeks ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (1 month ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 months ago)
@@ -32,7 +32,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.0](https://github.com/obreitwi/asfa/releases/tag/v0.9.0), 3 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 4 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
+- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 5 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
 - [electronicvisions/spike-based-sampling](https://github.com/electronicvisions/spike-based-sampling) ([v1.8.2](https://github.com/electronicvisions/spike-based-sampling/releases/tag/v1.8.2), 2 years ago) - Helper library for stochastic LIF sampling in PyNN-supported neural simulators
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) ([v0.1.0](https://github.com/obreitwi/py-veer/releases/tag/v0.1.0), 2 years ago) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
 
@@ -46,8 +46,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (4 days ago)
-- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (4 days ago)
+- [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (5 days ago)
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (5 days ago)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (1 week ago)
 - [ruanyl/vim-gh-line](https://github.com/ruanyl/vim-gh-line) - vim plugin that open the link of current line on github (1 week ago)
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim (1 week ago)
