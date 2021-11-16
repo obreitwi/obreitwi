@@ -10,10 +10,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (5 days ago)
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 weeks ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (6 days ago)
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (4 weeks ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (1 month ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 months ago)
 - [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (4 months ago)
@@ -41,12 +41,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (1 month ago)
 - [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (4 months ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (5 months ago)
-- [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (7 months ago)
+- [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (8 months ago)
 - [Add config option: post-release-replacements](https://github.com/crate-ci/cargo-release/pull/228) on [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism (today)
+- [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism (1 day ago)
 - [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (1 week ago)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 week ago)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (1 week ago)
