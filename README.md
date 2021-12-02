@@ -23,11 +23,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🌱 My latest projects
 
+- [obreitwi/advent-of-code-2019-rust](https://github.com/obreitwi/advent-of-code-2019-rust) - solutions from advent of code in 2019 to learn rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
 - [obreitwi/collapd](https://github.com/obreitwi/collapd) - Collapse several ldap trees virtually into one
 - [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates
-- [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line
 
 #### 🔭 Latest releases I've contributed to
 
