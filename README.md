@@ -10,6 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from advent of code in 2020 to learn Rust. (today)
+- [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code 2021 to learn Rust. (1 day ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 weeks ago)
@@ -18,16 +20,14 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (3 months ago)
 - [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (4 months ago)
 - [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates (5 months ago)
-- [electronicvisions/bss-hw-params](https://github.com/electronicvisions/bss-hw-params) -  (6 months ago)
-- [electronicvisions/hxtorch](https://github.com/electronicvisions/hxtorch) - BrainScaleS-2 via PyTorch (6 months ago)
 
 #### 🌱 My latest projects
 
-- [obreitwi/advent-of-code-2019-rust](https://github.com/obreitwi/advent-of-code-2019-rust) - solutions from advent of code in 2019 to learn rust
+- [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code 2021 to learn Rust.
+- [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from advent of code in 2020 to learn Rust.
+- [obreitwi/advent-of-code-2019-rust](https://github.com/obreitwi/advent-of-code-2019-rust) - Solutions from Advent of Code in 2019 to learn Rust.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
-- [obreitwi/collapd](https://github.com/obreitwi/collapd) - Collapse several ldap trees virtually into one
-- [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates
 
 #### 🔭 Latest releases I've contributed to
 
