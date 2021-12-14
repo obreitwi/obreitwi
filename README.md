@@ -11,7 +11,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 👷 Check out what I'm currently working on
 
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter (3 weeks ago)
+- [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter (4 weeks ago)
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism (4 weeks ago)
 - [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (1 month ago)
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 month ago)
