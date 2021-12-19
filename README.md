@@ -46,11 +46,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (today)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 days ago)
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter (1 month ago)
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism (1 month ago)
 - [yazgoo/yank-history](https://github.com/yazgoo/yank-history) - yank history for vim via fzf (1 month ago)
-- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (1 month ago)
 
 #### 📫 How to reach me
 
