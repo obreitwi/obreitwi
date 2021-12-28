@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.0](https://github.com/obreitwi/asfa/releases/tag/v0.9.0), 4 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), today) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 6 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
 - [electronicvisions/spike-based-sampling](https://github.com/electronicvisions/spike-based-sampling) ([v1.8.2](https://github.com/electronicvisions/spike-based-sampling/releases/tag/v1.8.2), 2 years ago) - Helper library for stochastic LIF sampling in PyNN-supported neural simulators
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) ([v0.1.0](https://github.com/obreitwi/py-veer/releases/tag/v0.1.0), 2 years ago) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
