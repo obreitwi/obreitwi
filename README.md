@@ -10,12 +10,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (1 week ago)
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (2 weeks ago)
-- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (3 weeks ago)
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 weeks ago)
+- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (4 weeks ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (1 month ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (3 months ago)
 - [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (6 months ago)
@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 weeks ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 3 weeks ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 - [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 7 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
 - [electronicvisions/spike-based-sampling](https://github.com/electronicvisions/spike-based-sampling) ([v1.8.2](https://github.com/electronicvisions/spike-based-sampling/releases/tag/v1.8.2), 2 years ago) - Helper library for stochastic LIF sampling in PyNN-supported neural simulators
 - [obreitwi/py-veer](https://github.com/obreitwi/py-veer) ([v0.1.0](https://github.com/obreitwi/py-veer/releases/tag/v0.1.0), 2 years ago) - Seamless execution of Python code in different environments, be it simple sub-processes or singularity containers.
@@ -46,10 +46,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (2 days ago)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (3 days ago)
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options (1 week ago)
 - [sjbach/lusty](https://github.com/sjbach/lusty) - LustyExplorer / LustyJuggler for Vim (4 weeks ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (4 weeks ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (1 month ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 month ago)
 
 #### 📫 How to reach me
