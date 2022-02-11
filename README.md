@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (1 month ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 month ago)
@@ -32,7 +32,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 1 month ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 7 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
+- [gridspeccer/gridspeccer](https://github.com/gridspeccer/gridspeccer) ([v0.2.0](https://github.com/gridspeccer/gridspeccer/releases/tag/v0.2.0), 8 months ago) - Make plotting in matplotlib with many subfigures, especially in publications, easier.
 - [electronicvisions/spike-based-sampling](https://github.com/electronicvisions/spike-based-sampling) ([v1.8.2](https://github.com/electronicvisions/spike-based-sampling/releases/tag/v1.8.2), 2 years ago) - Helper library for stochastic LIF sampling in PyNN-supported neural simulators
 
 #### 🔨 My recent Pull Requests
