@@ -44,7 +44,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (4 weeks ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (1 month ago)
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options (1 month ago)
 - [sjbach/lusty](https://github.com/sjbach/lusty) - LustyExplorer / LustyJuggler for Vim (2 months ago)
