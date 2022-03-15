@@ -44,11 +44,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python (today)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 month ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (1 month ago)
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options (2 months ago)
 - [sjbach/lusty](https://github.com/sjbach/lusty) - LustyExplorer / LustyJuggler for Vim (2 months ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 months ago)
 
 #### 📫 How to reach me
 
