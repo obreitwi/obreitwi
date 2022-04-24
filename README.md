@@ -17,7 +17,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 months ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (4 months ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (4 months ago)
-- [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (6 months ago)
+- [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (7 months ago)
 - [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (9 months ago)
 - [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates (10 months ago)
 
@@ -35,7 +35,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (6 months ago)
+- [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (7 months ago)
 - [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (9 months ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (10 months ago)
 - [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (1 year ago)
@@ -43,7 +43,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (4 days ago)
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (5 days ago)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python (1 month ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 months ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (3 months ago)
