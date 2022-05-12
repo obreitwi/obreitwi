@@ -43,8 +43,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (today)
-- [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (1 day ago)
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (1 day ago)
+- [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (2 days ago)
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses (2 weeks ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 weeks ago)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python (1 month ago)
