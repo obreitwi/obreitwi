@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (4 months ago)
@@ -36,18 +36,18 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔨 My recent Pull Requests
 
 - [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (7 months ago)
-- [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (9 months ago)
+- [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (10 months ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (11 months ago)
 - [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (1 year ago)
 - [Add config option: post-release-replacements](https://github.com/crate-ci/cargo-release/pull/228) on [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (2 days ago)
-- [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (3 days ago)
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (3 days ago)
+- [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (4 days ago)
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses (2 weeks ago)
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (3 weeks ago)
-- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python (1 month ago)
+- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python (2 months ago)
 
 #### 📫 How to reach me
 
