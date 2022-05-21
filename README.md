@@ -43,11 +43,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩 (today)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (4 days ago)
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (1 week ago)
 - [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (1 week ago)
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses (3 weeks ago)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/httpie (1 month ago)
 
 #### 📫 How to reach me
 
