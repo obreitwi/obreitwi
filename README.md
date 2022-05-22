@@ -10,16 +10,16 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
-- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (6 days ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (6 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
+- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 week ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (4 months ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (4 months ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (5 months ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (7 months ago)
 - [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (10 months ago)
-- [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates (10 months ago)
+- [obreitwi/hedup](https://github.com/obreitwi/hedup) - Helper to set LetsEncrypt ACME challenge for Hetzner DNS Robot - useful for wildcard certificates (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,8 +43,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩 (today)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (4 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩 (1 day ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (5 days ago)
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (1 week ago)
 - [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (1 week ago)
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses (3 weeks ago)
