@@ -43,7 +43,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩 (3 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 days ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (1 week ago)
 - [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (2 weeks ago)
