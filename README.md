@@ -45,7 +45,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (2 days ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 month ago)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 month ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (1 month ago)
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (1 month ago)
 - [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (1 month ago)
 
