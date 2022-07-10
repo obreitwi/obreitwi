@@ -19,7 +19,6 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (6 months ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (7 months ago)
 - [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (9 months ago)
-- [electronicvisions/yashchiki](https://github.com/electronicvisions/yashchiki) - Container image build flow for BrainScaleS (1 year ago)
 
 #### 🌱 My latest projects
 
