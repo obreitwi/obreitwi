@@ -18,7 +18,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [electronicvisions/lib-rcf](https://github.com/electronicvisions/lib-rcf) - Fork of &#34;Remote Call Framework&#34; (https://www.deltavsoft.com/) (6 months ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (6 months ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (7 months ago)
-- [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (9 months ago)
+- [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) - Sort vim folds based on their first line (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (9 months ago)
+- [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (10 months ago)
 - [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (1 year ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (1 year ago)
 - [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (1 year ago)
