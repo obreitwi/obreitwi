@@ -42,11 +42,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) -  (today)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 months ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (2 months ago)
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim (2 months ago)
-- [maorfr/git-url](https://github.com/maorfr/git-url) - Print URL to a file in git (2 months ago)
 
 #### 📫 How to reach me
 
