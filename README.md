@@ -11,9 +11,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 👷 Check out what I'm currently working on
 
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (today)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 day ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (1 month ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 months ago)
 - [electronicvisions/lib-rcf](https://github.com/electronicvisions/lib-rcf) - Fork of &#34;Remote Call Framework&#34; (https://www.deltavsoft.com/) (6 months ago)
@@ -42,7 +42,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (2 days ago)
+- [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (3 days ago)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) -  (2 weeks ago)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (1 month ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 months ago)
