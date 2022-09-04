@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (6 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 weeks ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (2 months ago)
@@ -42,7 +42,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (3 weeks ago)
+- [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (4 weeks ago)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) -  (1 month ago)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (2 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
