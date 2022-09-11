@@ -42,11 +42,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (today)
 - [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (1 month ago)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) -  (1 month ago)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (2 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (3 months ago)
 
 #### 📫 How to reach me
 
