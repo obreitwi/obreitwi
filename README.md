@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (6 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (2 weeks ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (3 months ago)
@@ -43,7 +43,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### ⭐ Recent Stars
 
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua (2 weeks ago)
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (2 weeks ago)
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (3 weeks ago)
 - [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - Task Type (TT) is an alternative CPU Scheduler for linux. (1 month ago)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) -  (2 months ago)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell (3 months ago)
