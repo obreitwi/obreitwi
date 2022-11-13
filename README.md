@@ -10,13 +10,13 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (4 days ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (6 days ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (5 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 month ago)
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (2 months ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (4 months ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (6 months ago)
-- [electronicvisions/lib-rcf](https://github.com/electronicvisions/lib-rcf) - Fork of &#34;Remote Call Framework&#34; (https://www.deltavsoft.com/) (9 months ago)
+- [electronicvisions/lib-rcf](https://github.com/electronicvisions/lib-rcf) - Fork of &#34;Remote Call Framework&#34; (https://www.deltavsoft.com/) (10 months ago)
 - [obreitwi/advent-of-code-2020-rust](https://github.com/obreitwi/advent-of-code-2020-rust) - Solutions from Advent of Code in 2020 to learn Rust. (11 months ago)
 
 #### 🌱 My latest projects
@@ -33,7 +33,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
+- [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 months ago)
 - [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (1 year ago)
 - [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (1 year ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (1 year ago)
