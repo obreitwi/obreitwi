@@ -41,9 +41,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### ⭐ Recent Stars
 
 - [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (2 months ago)
-- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (2 months ago)
-- [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool (2 months ago)
-- [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text (2 months ago)
+- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (3 months ago)
+- [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool (3 months ago)
+- [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text (3 months ago)
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua (3 months ago)
 
 #### 📫 How to reach me
