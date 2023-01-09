@@ -35,7 +35,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
 - [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (1 year ago)
-- [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (1 year ago)
+- [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (2 years ago)
 - [Add support to fetch from specfiles](https://github.com/spack/spack/pull/24275) on [spack/spack](https://github.com/spack/spack) (2 years ago)
 - [Check for accidentally deleted lines to prevent loss of files](https://github.com/thameera/vimv/pull/33) on [thameera/vimv](https://github.com/thameera/vimv) (2 years ago)
 
