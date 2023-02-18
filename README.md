@@ -32,11 +32,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (today)
+- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (today)
 - [Fix badge: build status](https://github.com/obreitwi/asfa/pull/18) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
 - [Update all compatible versions](https://github.com/obreitwi/asfa/pull/17) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
 - [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (5 months ago)
-- [Integrate command &amp; add tests](https://github.com/obreitwi/vim-sort-folds/pull/6) on [obreitwi/vim-sort-folds](https://github.com/obreitwi/vim-sort-folds) (1 year ago)
-- [Fix support for using ripgrep with vim-dispatch](https://github.com/mileszs/ack.vim/pull/276) on [mileszs/ack.vim](https://github.com/mileszs/ack.vim) (2 years ago)
 
 #### ⭐ Recent Stars
 
