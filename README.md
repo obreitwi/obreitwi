@@ -10,11 +10,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
-- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (4 days ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (6 days ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
+- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (5 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 weeks ago)
 - [obreitwi/advent-of-code-2022-rust](https://github.com/obreitwi/advent-of-code-2022-rust) -  Solutions from Advent of Code in 2022 to learn Rust. (3 months ago)
 - [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (9 months ago)
@@ -33,8 +33,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (4 weeks ago)
-- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (4 weeks ago)
+- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (1 month ago)
+- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (1 month ago)
 - [Fix badge: build status](https://github.com/obreitwi/asfa/pull/18) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
 - [Update all compatible versions](https://github.com/obreitwi/asfa/pull/17) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
 - [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (6 months ago)
@@ -44,7 +44,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [makarski/rust_google_oauth2](https://github.com/makarski/rust_google_oauth2) - Rust Google Oauth2 Client Implementation (1 month ago)
 - [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (1 month ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (1 month ago)
-- [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (4 months ago)
+- [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (5 months ago)
 - [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (5 months ago)
 
 #### 📫 How to reach me
