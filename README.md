@@ -45,7 +45,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (1 month ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (2 months ago)
 - [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (5 months ago)
-- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (5 months ago)
+- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (6 months ago)
 
 #### 📫 How to reach me
 
