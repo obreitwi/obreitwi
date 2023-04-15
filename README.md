@@ -17,7 +17,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 month ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (1 month ago)
 - [obreitwi/advent-of-code-2022-rust](https://github.com/obreitwi/advent-of-code-2022-rust) -  Solutions from Advent of Code in 2022 to learn Rust. (4 months ago)
-- [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (9 months ago)
+- [obreitwi/advent-of-code-2021-rust](https://github.com/obreitwi/advent-of-code-2021-rust) - Solutions from Advent of Code in 2021 to learn Rust. (10 months ago)
 
 #### 🌱 My latest projects
 
