@@ -33,8 +33,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (1 month ago)
-- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (1 month ago)
+- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (2 months ago)
+- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (2 months ago)
 - [Fix badge: build status](https://github.com/obreitwi/asfa/pull/18) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 months ago)
 - [Update all compatible versions](https://github.com/obreitwi/asfa/pull/17) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 months ago)
 - [cargo upgrade and fix returned results with .expect() for now](https://github.com/obreitwi/asfa/pull/15) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (7 months ago)
@@ -44,7 +44,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [makarski/rust_google_oauth2](https://github.com/makarski/rust_google_oauth2) - Rust Google Oauth2 Client Implementation (2 months ago)
 - [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (2 months ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (2 months ago)
-- [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (5 months ago)
+- [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (6 months ago)
 - [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (6 months ago)
 
 #### 📫 How to reach me
