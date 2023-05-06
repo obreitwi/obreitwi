@@ -11,7 +11,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 👷 Check out what I'm currently working on
 
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 month ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 month ago)
@@ -45,7 +45,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (2 months ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (3 months ago)
 - [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (6 months ago)
-- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (6 months ago)
+- [giant-axon/lu.i-neuron-pcb](https://github.com/giant-axon/lu.i-neuron-pcb) -  (7 months ago)
 
 #### 📫 How to reach me
 
