@@ -42,11 +42,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (today)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (6 days ago)
 - [makarski/rust_google_oauth2](https://github.com/makarski/rust_google_oauth2) - Rust Google Oauth2 Client Implementation (2 months ago)
 - [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (2 months ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (3 months ago)
-- [AquilaIrreale/urlencode](https://github.com/AquilaIrreale/urlencode) - base64-like encoder and decoder for URL encoding (6 months ago)
 
 #### 📫 How to reach me
 
