@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
-- [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (4 days ago)
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
+- [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (5 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 month ago)
@@ -31,12 +31,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v4.0.1](https://github.com/nvim-neorg/neorg/releases/tag/v4.0.1), 1 day ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v4.0.1](https://github.com/nvim-neorg/neorg/releases/tag/v4.0.1), 2 days ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 1 year ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: use new icons for `done`/`undone` as per nerd fonts 3.0](https://github.com/nvim-neorg/neorg/pull/849) on [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (6 days ago)
+- [refactor: use new icons for `done`/`undone` as per nerd fonts 3.0](https://github.com/nvim-neorg/neorg/pull/849) on [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (1 week ago)
 - [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (2 months ago)
 - [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (2 months ago)
 - [Fix badge: build status](https://github.com/obreitwi/asfa/pull/18) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
@@ -44,10 +44,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (today)
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (6 days ago)
-- [makarski/rust_google_oauth2](https://github.com/makarski/rust_google_oauth2) - Rust Google Oauth2 Client Implementation (2 months ago)
-- [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (2 months ago)
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust (1 day ago)
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (1 week ago)
+- [makarski/rust_google_oauth2](https://github.com/makarski/rust_google_oauth2) - Rust Google Oauth2 Client Implementation (3 months ago)
+- [makarski/rust_google_tasks](https://github.com/makarski/rust_google_tasks) - Rust Client for Google Tasks API (3 months ago)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux. (3 months ago)
 
 #### 📫 How to reach me
