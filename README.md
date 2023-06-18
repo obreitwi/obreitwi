@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (2 weeks ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
@@ -19,7 +19,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 months ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 months ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 months ago)
-- [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column (3 months ago)
+- [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,8 +37,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔨 My recent Pull Requests
 
 - [refactor: use new icons for `done`/`undone` as per nerd fonts 3.0](https://github.com/nvim-neorg/neorg/pull/849) on [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (1 month ago)
-- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (3 months ago)
-- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (3 months ago)
+- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (4 months ago)
+- [Add Path:find_upwards()](https://github.com/nvim-lua/plenary.nvim/pull/466) on [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) (4 months ago)
 - [Fix badge: build status](https://github.com/obreitwi/asfa/pull/18) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (4 months ago)
 - [Update all compatible versions](https://github.com/obreitwi/asfa/pull/17) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (4 months ago)
 
