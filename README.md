@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 week ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (3 weeks ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 weeks ago)
@@ -44,9 +44,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (2 weeks ago)
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (3 weeks ago)
 - [antifuchs/governor](https://github.com/antifuchs/governor) - A rate-limiting library for Rust (formerly ratelimit_meter) (3 weeks ago)
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (1 month ago)
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (2 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust (2 months ago)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (2 months ago)
 
