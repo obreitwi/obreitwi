@@ -45,11 +45,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs. (today)
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools (3 weeks ago)
 - [bjoernmichaelsen/dotfiles](https://github.com/bjoernmichaelsen/dotfiles) -  (3 weeks ago)
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 month ago)
 - [antifuchs/governor](https://github.com/antifuchs/governor) - A rate-limiting library for Rust (formerly ratelimit_meter) (1 month ago)
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl (3 months ago)
 
 #### 📫 How to reach me
 
