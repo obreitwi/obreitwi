@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust (1 week ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (1 month ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 month ago)
@@ -37,7 +37,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (1 week ago)
+- [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (2 weeks ago)
 - [feat: add option `scan --rule-id &lt;rule_id&gt;…`](https://github.com/ast-grep/ast-grep/pull/594) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (2 weeks ago)
 - [Update Dependencies](https://github.com/obreitwi/asfa/pull/19) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
 - [refactor: use new icons for `done`/`undone` as per nerd fonts 3.0](https://github.com/nvim-neorg/neorg/pull/849) on [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (3 months ago)
