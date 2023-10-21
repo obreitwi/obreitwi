@@ -17,7 +17,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust (2 months ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (2 months ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 months ago)
-- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (4 months ago)
+- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don&#39;t want to write twice. (5 months ago)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (5 months ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (7 months ago)
 
@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.12.5](https://github.com/ast-grep/ast-grep/releases/tag/0.12.5), 5 days ago) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.0.0), 3 weeks ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.12.5](https://github.com/ast-grep/ast-grep/releases/tag/0.12.5), 6 days ago) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.0.0), 4 weeks ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
