@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.1.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.1.0), today) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.12.5](https://github.com/ast-grep/ast-grep/releases/tag/0.12.5), 2 weeks ago) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.0.0), 1 month ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
