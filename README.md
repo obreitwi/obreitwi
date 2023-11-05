@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 month ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (2 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (2 months ago)
@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.1.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.1.0), 6 days ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.12.5](https://github.com/ast-grep/ast-grep/releases/tag/0.12.5), 2 weeks ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.1.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.1.0), 1 week ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.12.5](https://github.com/ast-grep/ast-grep/releases/tag/0.12.5), 3 weeks ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
