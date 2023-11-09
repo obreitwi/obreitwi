@@ -37,11 +37,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (today)
 - [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (2 months ago)
 - [feat: add option `scan --rule-id &lt;rule_id&gt;…`](https://github.com/ast-grep/ast-grep/pull/594) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (2 months ago)
 - [Update Dependencies](https://github.com/obreitwi/asfa/pull/19) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
 - [refactor: use new icons for `done`/`undone` as per nerd fonts 3.0](https://github.com/nvim-neorg/neorg/pull/849) on [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (6 months ago)
-- [Fix coverage not shown if go.mod is in upwards directory](https://github.com/andythigpen/nvim-coverage/pull/20) on [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) (8 months ago)
 
 #### ⭐ Recent Stars
 
