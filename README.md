@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 days ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 days ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (6 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (6 days ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (2 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (3 months ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 months ago)
@@ -37,7 +37,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (4 days ago)
+- [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (5 days ago)
 - [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (3 months ago)
 - [feat: add option `scan --rule-id &lt;rule_id&gt;…`](https://github.com/ast-grep/ast-grep/pull/594) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (3 months ago)
 - [Update Dependencies](https://github.com/obreitwi/asfa/pull/19) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
