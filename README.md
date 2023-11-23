@@ -31,14 +31,14 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.13.2](https://github.com/ast-grep/ast-grep/releases/tag/0.13.2), 2 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.2.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.2.0), 4 days ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.13.2](https://github.com/ast-grep/ast-grep/releases/tag/0.13.2), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v6.2.0](https://github.com/nvim-neorg/neorg/releases/tag/v6.2.0), 5 days ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
 - [update dependencies](https://github.com/obreitwi/asfa/pull/21) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 week ago)
-- [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (1 week ago)
+- [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (2 weeks ago)
 - [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (3 months ago)
 - [feat: add option `scan --rule-id &lt;rule_id&gt;…`](https://github.com/ast-grep/ast-grep/pull/594) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (3 months ago)
 - [Update Dependencies](https://github.com/obreitwi/asfa/pull/19) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (4 months ago)
