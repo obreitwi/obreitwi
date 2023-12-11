@@ -10,12 +10,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
 - [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (today)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
 - [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) - Datadog Test Instrumentation framework for Go (1 week ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 weeks ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 weeks ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (4 weeks ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 month ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (3 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (3 months ago)
@@ -39,7 +39,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [update dependencies](https://github.com/obreitwi/asfa/pull/21) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
 - [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (1 month ago)
-- [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (3 months ago)
+- [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (4 months ago)
 - [feat: add option `scan --rule-id &lt;rule_id&gt;…`](https://github.com/ast-grep/ast-grep/pull/594) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (4 months ago)
 - [Update Dependencies](https://github.com/obreitwi/asfa/pull/19) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (4 months ago)
 
