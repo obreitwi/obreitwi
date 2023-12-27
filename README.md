@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
+- [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (1 day ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 days ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
 - [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) - Datadog Test Instrumentation framework for Go (4 weeks ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (1 month ago)
@@ -45,8 +45,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (3 days ago)
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (6 days ago)
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (4 days ago)
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 week ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 week ago)
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes (2 months ago)
 - [keyboardio/Chrysalis](https://github.com/keyboardio/Chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards (2 months ago)
