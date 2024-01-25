@@ -32,7 +32,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.17.1](https://github.com/ast-grep/ast-grep/releases/tag/0.17.1), 1 week ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v7.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v7.0.0), 3 weeks ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v7.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v7.0.0), 4 weeks ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
@@ -48,7 +48,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (1 month ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 month ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 month ago)
-- [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes (2 months ago)
+- [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes (3 months ago)
 - [keyboardio/Chrysalis](https://github.com/keyboardio/Chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards (3 months ago)
 
 #### 📫 How to reach me
