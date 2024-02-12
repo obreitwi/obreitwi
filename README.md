@@ -45,11 +45,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...) (today)
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (1 month ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 month ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 month ago)
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes (3 months ago)
-- [keyboardio/Chrysalis](https://github.com/keyboardio/Chrysalis) - Graphical configurator for Kaleidoscope-powered keyboards (4 months ago)
 
 #### 📫 How to reach me
 
