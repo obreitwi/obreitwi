@@ -10,12 +10,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
-- [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (3 weeks ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 days ago)
+- [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (4 weeks ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 month ago)
 - [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) - Datadog Test Instrumentation framework for Go (2 months ago)
-- [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (2 months ago)
+- [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 months ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (3 months ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (5 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (6 months ago)
@@ -37,7 +37,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add feature toggle for writing commit data](https://github.com/freiheit-com/kuberpult/pull/1332) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
+- [feat: add feature toggle for writing commit data](https://github.com/freiheit-com/kuberpult/pull/1332) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [update dependencies](https://github.com/obreitwi/asfa/pull/21) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
 - [fix: filter sensitive information from git-retrieved repository URL](https://github.com/DataDog/dd-sdk-go-testing/pull/27) on [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) (3 months ago)
 - [feat: Rename scan --rule-id → scan --filter](https://github.com/ast-grep/ast-grep/pull/596) on [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) (6 months ago)
@@ -45,7 +45,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...) (today)
+- [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...) (1 day ago)
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (1 month ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 month ago)
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (1 month ago)
