@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI based gRPC client (2 days ago)
+- [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client (2 days ago)
 - [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...) (6 days ago)
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck. (1 month ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (2 months ago)
