@@ -10,15 +10,15 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (2 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (3 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 week ago)
 - [obreitwi/advent-of-code-2023-haskell](https://github.com/obreitwi/advent-of-code-2023-haskell) - Solutions from Advent of Code in 2023 to get back into Haskell a bit. (1 month ago)
 - [DataDog/dd-sdk-go-testing](https://github.com/DataDog/dd-sdk-go-testing) - Datadog Test Instrumentation framework for Go (3 months ago)
 - [obreitwi/dot_nushell](https://github.com/obreitwi/dot_nushell) - Configuration for nushell (3 months ago)
-- [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (5 months ago)
+- [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (6 months ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (6 months ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.2.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.2.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.19.3](https://github.com/ast-grep/ast-grep/releases/tag/0.19.3), 5 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.2.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.2.0), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.19.3](https://github.com/ast-grep/ast-grep/releases/tag/0.19.3), 6 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v7.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v7.0.0), 2 months ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (today)
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (1 day ago)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (1 week ago)
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client (2 weeks ago)
 - [beneater/msbasic](https://github.com/beneater/msbasic) - Microsoft BASIC for 6502 (Commodore, Apple, KIM-1, AIM-65, OSI, ...) (2 weeks ago)
