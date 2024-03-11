@@ -38,11 +38,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [test: add tests for {confirm,plain} dialog](https://github.com/freiheit-com/kuberpult/pull/1424) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
 - [fix: dropdowns not closing when clicking outside](https://github.com/freiheit-com/kuberpult/pull/1363) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (2 weeks ago)
 - [chore(fmt): run cargo fmt](https://github.com/obreitwi/asfa/pull/23) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 weeks ago)
 - [chore(deps): remove atty](https://github.com/obreitwi/asfa/pull/22) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 weeks ago)
 - [feat: add feature toggle for writing commit data](https://github.com/freiheit-com/kuberpult/pull/1332) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (4 weeks ago)
-- [update dependencies](https://github.com/obreitwi/asfa/pull/21) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 months ago)
 
 #### ⭐ Recent Stars
 
