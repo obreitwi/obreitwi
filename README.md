@@ -39,7 +39,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔨 My recent Pull Requests
 
 - [test: dotsMenu: add tests for closing behavior](https://github.com/freiheit-com/kuberpult/pull/1425) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
-- [test: add tests for {confirm,plain} dialog](https://github.com/freiheit-com/kuberpult/pull/1424) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
+- [fix: add tests for {confirm,plain} dialog](https://github.com/freiheit-com/kuberpult/pull/1424) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [fix: dropdowns not closing when clicking outside](https://github.com/freiheit-com/kuberpult/pull/1363) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (2 weeks ago)
 - [chore(fmt): run cargo fmt](https://github.com/obreitwi/asfa/pull/23) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
 - [chore(deps): remove atty](https://github.com/obreitwi/asfa/pull/22) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
