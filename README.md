@@ -38,7 +38,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [wip: refactor unit test error/proto comparisons](https://github.com/freiheit-com/kuberpult/pull/1433) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
+- [fix: reduce flakiness by refactoring unit test error/proto comparisons](https://github.com/freiheit-com/kuberpult/pull/1433) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [feat: document how to remove environments](https://github.com/freiheit-com/kuberpult/pull/1426) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (3 days ago)
 - [chore: (dotsMenu) add tests for closing behavior](https://github.com/freiheit-com/kuberpult/pull/1425) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (3 days ago)
 - [chore: add tests for {confirm,plain} dialog](https://github.com/freiheit-com/kuberpult/pull/1424) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (4 days ago)
