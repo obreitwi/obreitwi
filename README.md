@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (5 days ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton, deployed via PyDEMX. (5 days ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (5 days ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (6 days ago)
