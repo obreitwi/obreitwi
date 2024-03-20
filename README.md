@@ -31,18 +31,18 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.10.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.10.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.11.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.11.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.19.4](https://github.com/ast-grep/ast-grep/releases/tag/0.19.4), 1 week ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v7.0.0](https://github.com/nvim-neorg/neorg/releases/tag/v7.0.0), 2 months ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: remove MDCTextfield from lock message](https://github.com/freiheit-com/kuberpult/pull/1452) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
 - [feat: remove use of MDCTextField in top bar](https://github.com/freiheit-com/kuberpult/pull/1448) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [feat: supply args to &#39;go test&#39; via GO_TEST_ARGS](https://github.com/freiheit-com/kuberpult/pull/1440) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (2 days ago)
 - [fix: use namespace from config for argoCD links](https://github.com/freiheit-com/kuberpult/pull/1439) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (5 days ago)
 - [fix: reduce flakiness by refactoring unit test error/proto comparisons](https://github.com/freiheit-com/kuberpult/pull/1433) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (6 days ago)
-- [feat: document how to remove environments](https://github.com/freiheit-com/kuberpult/pull/1426) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 week ago)
 
 #### ⭐ Recent Stars
 
