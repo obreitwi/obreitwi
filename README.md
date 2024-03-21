@@ -38,7 +38,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [wip: implement /api/application/&lt;app&gt;/release/&lt;release&gt;/manifests](https://github.com/freiheit-com/kuberpult/pull/1453) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
+- [feat: implement /api/application/&lt;app&gt;/release/&lt;release&gt;/manifests](https://github.com/freiheit-com/kuberpult/pull/1453) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [feat: remove MDCTextfield from lock message](https://github.com/freiheit-com/kuberpult/pull/1452) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 day ago)
 - [feat: remove use of MDCTextField in top bar](https://github.com/freiheit-com/kuberpult/pull/1448) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (2 days ago)
 - [feat: supply args to &#39;go test&#39; via GO_TEST_ARGS](https://github.com/freiheit-com/kuberpult/pull/1440) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (3 days ago)
