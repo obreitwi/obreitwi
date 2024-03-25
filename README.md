@@ -13,9 +13,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton. (today)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (today)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (3 days ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 week ago)
 - [obreitwi/pydemx](https://github.com/obreitwi/pydemx) - Generate arbitrary config files based on hostname via embedded python code (1 week ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 weeks ago)
@@ -38,11 +38,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: request not aborted on invalid credentials](https://github.com/freiheit-com/kuberpult/pull/1468) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
 - [fix: errors &#34;was not wrapped in act(...)&#34;](https://github.com/freiheit-com/kuberpult/pull/1465) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (3 days ago)
 - [feat: implement endpoint to retrieve manifests](https://github.com/freiheit-com/kuberpult/pull/1453) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (5 days ago)
 - [feat: remove MDCTextfield from lock message](https://github.com/freiheit-com/kuberpult/pull/1452) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (5 days ago)
 - [feat: remove use of MDCTextField in top bar](https://github.com/freiheit-com/kuberpult/pull/1448) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (6 days ago)
-- [feat: supply args to &#39;go test&#39; via GO_TEST_ARGS](https://github.com/freiheit-com/kuberpult/pull/1440) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (1 week ago)
 
 #### ⭐ Recent Stars
 
