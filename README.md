@@ -31,26 +31,26 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.14.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.14.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.14.1](https://github.com/freiheit-com/kuberpult/releases/tag/v2.14.1), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.20.1](https://github.com/ast-grep/ast-grep/releases/tag/0.20.1), today) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v8.1.0](https://github.com/nvim-neorg/neorg/releases/tag/v8.1.0), 1 day ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: check for GKEProjectNumber instead of service ID](https://github.com/freiheit-com/kuberpult/pull/1469) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
 - [fix: request not aborted on invalid credentials](https://github.com/freiheit-com/kuberpult/pull/1468) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (today)
 - [fix: errors &#34;was not wrapped in act(...)&#34;](https://github.com/freiheit-com/kuberpult/pull/1465) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (3 days ago)
 - [feat: implement endpoint to retrieve manifests](https://github.com/freiheit-com/kuberpult/pull/1453) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (5 days ago)
 - [feat: remove MDCTextfield from lock message](https://github.com/freiheit-com/kuberpult/pull/1452) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (5 days ago)
-- [feat: remove use of MDCTextField in top bar](https://github.com/freiheit-com/kuberpult/pull/1448) on [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code (today)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 week ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (3 weeks ago)
 
 #### 📫 How to reach me
 
