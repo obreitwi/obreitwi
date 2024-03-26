@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.15.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.15.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v8.2.0](https://github.com/nvim-neorg/neorg/releases/tag/v8.2.0), 1 day ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.14.1](https://github.com/freiheit-com/kuberpult/releases/tag/v2.14.1), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.20.1](https://github.com/ast-grep/ast-grep/releases/tag/0.20.1), 1 day ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
