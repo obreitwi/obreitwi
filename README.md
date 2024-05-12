@@ -33,7 +33,6 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.2](https://github.com/ast-grep/ast-grep/releases/tag/0.22.2), today) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.31.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.31.0), 4 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ([v8.4.1](https://github.com/nvim-neorg/neorg/releases/tag/v8.4.1), 4 weeks ago) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
