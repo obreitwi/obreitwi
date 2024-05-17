@@ -10,12 +10,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (2 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 days ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead. (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (1 month ago)
 - [obreitwi/dot_tmux](https://github.com/obreitwi/dot_tmux) - My tmux configuraiton. (1 month ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (2 months ago)
@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.32.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.32.0), 2 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.3](https://github.com/ast-grep/ast-grep/releases/tag/0.22.3), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.32.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.32.0), 3 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.3](https://github.com/ast-grep/ast-grep/releases/tag/0.22.3), 4 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.9.1](https://github.com/obreitwi/asfa/releases/tag/v0.9.1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sending a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
@@ -45,8 +45,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]  (3 days ago)
-- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (6 days ago)
+- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]  (4 days ago)
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (1 week ago)
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search (3 weeks ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (4 weeks ago)
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime. (1 month ago)
