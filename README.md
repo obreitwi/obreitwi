@@ -31,8 +31,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.39.1](https://github.com/freiheit-com/kuberpult/releases/tag/v2.39.1), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0.1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0.1), 1 day ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.39.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.39.0), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.4](https://github.com/ast-grep/ast-grep/releases/tag/0.22.4), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 #### 🔨 My recent Pull Requests
