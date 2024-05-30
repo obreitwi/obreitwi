@@ -12,9 +12,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead. (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
-- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (5 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
+- [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (6 days ago)
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
@@ -31,14 +31,14 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0.1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0.1), today) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.39.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.39.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.4](https://github.com/ast-grep/ast-grep/releases/tag/0.22.4), 2 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0.1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0.1), 1 day ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.39.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.39.0), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.4](https://github.com/ast-grep/ast-grep/releases/tag/0.22.4), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 #### 🔨 My recent Pull Requests
 
-- [chore: track all dependencies for releases in nix](https://github.com/obreitwi/asfa/pull/29) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 days ago)
-- [chore(flake): update inputs](https://github.com/obreitwi/asfa/pull/28) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 days ago)
+- [chore: track all dependencies for releases in nix](https://github.com/obreitwi/asfa/pull/29) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 days ago)
+- [chore(flake): update inputs](https://github.com/obreitwi/asfa/pull/28) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 days ago)
 - [feat: add direnv-support via nix](https://github.com/obreitwi/asfa/pull/26) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
 - [feat: add preliminary nix-support via crane](https://github.com/obreitwi/asfa/pull/25) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
 - [azure-cli: Add extension azure-devops](https://github.com/NixOS/nixpkgs/pull/306408) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
