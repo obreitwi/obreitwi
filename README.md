@@ -31,13 +31,13 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.5](https://github.com/ast-grep/ast-grep/releases/tag/0.22.5), today) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.39.3](https://github.com/freiheit-com/kuberpult/releases/tag/v2.39.3), 2 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 4 days ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.22.4](https://github.com/ast-grep/ast-grep/releases/tag/0.22.4), 6 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add package asfa](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [asfa: init at 0.10.0](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [chore: track all dependencies for releases in nix](https://github.com/obreitwi/asfa/pull/29) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (6 days ago)
 - [chore(flake): update inputs](https://github.com/obreitwi/asfa/pull/28) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (6 days ago)
 - [feat: add direnv-support via nix](https://github.com/obreitwi/asfa/pull/26) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (3 weeks ago)
