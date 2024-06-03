@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead. (today)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 days ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (1 week ago)
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (2 weeks ago)
