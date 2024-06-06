@@ -37,11 +37,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [asfa: init at 0.10.0](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [chore: track all dependencies for releases in nix](https://github.com/obreitwi/asfa/pull/29) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 week ago)
 - [chore(flake): update inputs](https://github.com/obreitwi/asfa/pull/28) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 week ago)
-- [feat: add direnv-support via nix](https://github.com/obreitwi/asfa/pull/26) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
-- [feat: add preliminary nix-support via crane](https://github.com/obreitwi/asfa/pull/25) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (1 month ago)
 
 #### ⭐ Recent Stars
 
