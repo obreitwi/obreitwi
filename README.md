@@ -45,11 +45,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (today)
 - [bjoernmichaelsen/ghdepup](https://github.com/bjoernmichaelsen/ghdepup) - A minimal tool to update dependencies based on tags published on github that is easy to integrate in any kind of toolchain. (today)
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]  (1 month ago)
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (1 month ago)
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search (1 month ago)
-- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (2 months ago)
 
 #### 📫 How to reach me
 
