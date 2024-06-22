@@ -10,10 +10,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead. (2 weeks ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (4 weeks ago)
 - [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) - Kuberpult helps you manage different versions of different microservices in different cluster. (1 month ago)
@@ -31,13 +31,13 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.41.8](https://github.com/freiheit-com/kuberpult/releases/tag/v2.41.8), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.41.8](https://github.com/freiheit-com/kuberpult/releases/tag/v2.41.8), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.23.0](https://github.com/ast-grep/ast-grep/releases/tag/0.23.0), 1 week ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 3 weeks ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
-- [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [asfa: init at 0.10.0](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
@@ -45,8 +45,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (3 days ago)
-- [bjoernmichaelsen/ghdepup](https://github.com/bjoernmichaelsen/ghdepup) - A minimal tool to update dependencies based on tags published on github that is easy to integrate in any kind of toolchain. (3 days ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (4 days ago)
+- [bjoernmichaelsen/ghdepup](https://github.com/bjoernmichaelsen/ghdepup) - A minimal tool to update dependencies based on tags published on github that is easy to integrate in any kind of toolchain. (4 days ago)
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]  (1 month ago)
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (1 month ago)
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search (2 months ago)
