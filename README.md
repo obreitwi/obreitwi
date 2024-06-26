@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.43.0](https://github.com/freiheit-com/kuberpult/releases/tag/v2.43.0), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v2.43.1](https://github.com/freiheit-com/kuberpult/releases/tag/v2.43.1), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.24.0](https://github.com/ast-grep/ast-grep/releases/tag/0.24.0), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 4 weeks ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
@@ -45,11 +45,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (today)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 week ago)
 - [bjoernmichaelsen/ghdepup](https://github.com/bjoernmichaelsen/ghdepup) - A minimal tool to update dependencies based on tags published on github that is easy to integrate in any kind of toolchain. (1 week ago)
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]  (1 month ago)
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (1 month ago)
-- [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search (2 months ago)
 
 #### 📫 How to reach me
 
