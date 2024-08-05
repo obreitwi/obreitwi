@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 days ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 week ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 weeks ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (2 weeks ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (2 weeks ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
@@ -31,21 +31,21 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v7.1.1](https://github.com/freiheit-com/kuberpult/releases/tag/v7.1.1), 2 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.25.5](https://github.com/ast-grep/ast-grep/releases/tag/0.25.5), 3 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v7.1.1](https://github.com/freiheit-com/kuberpult/releases/tag/v7.1.1), 3 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.25.5](https://github.com/ast-grep/ast-grep/releases/tag/0.25.5), 4 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 2 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
 - [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
+- [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
+- [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [asfa: init at 0.10.0](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [chore: track all dependencies for releases in nix](https://github.com/obreitwi/asfa/pull/29) on [obreitwi/asfa](https://github.com/obreitwi/asfa) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (4 days ago)
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (5 days ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter (1 month ago)
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (1 month ago)
