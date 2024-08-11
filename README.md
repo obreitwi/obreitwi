@@ -10,10 +10,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (2 days ago)
-- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (5 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (3 days ago)
+- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (6 days ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 weeks ago)
 - [obreitwi/toolbox](https://github.com/obreitwi/toolbox) - All configuration files and helper scripts combined in a single repository for easier management. (3 weeks ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (3 weeks ago)
@@ -31,12 +31,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.26.1](https://github.com/ast-grep/ast-grep/releases/tag/0.26.1), 1 day ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) ([0.26.1](https://github.com/ast-grep/ast-grep/releases/tag/0.26.1), 2 days ago) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 2 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: handle dots in username/hostname](https://github.com/viperML/nh/pull/140) on [viperML/nh](https://github.com/viperML/nh) (5 days ago)
+- [fix: handle dots in username/hostname](https://github.com/viperML/nh/pull/140) on [viperML/nh](https://github.com/viperML/nh) (6 days ago)
 - [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
