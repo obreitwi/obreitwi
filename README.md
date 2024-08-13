@@ -36,11 +36,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: handle dots in username/hostname](https://github.com/viperML/nh/pull/140) on [viperML/nh](https://github.com/viperML/nh) (1 week ago)
 - [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [[opened without template; duplicate] azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317833) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
-- [asfa: init at 0.10.0](https://github.com/NixOS/nixpkgs/pull/316730) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 
 #### ⭐ Recent Stars
 
