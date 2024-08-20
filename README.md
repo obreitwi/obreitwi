@@ -11,7 +11,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 👷 Check out what I'm currently working on
 
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (2 weeks ago)
@@ -35,7 +35,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [fix: handle dots in username/hostname](https://github.com/viperML/nh/pull/140) on [viperML/nh](https://github.com/viperML/nh) (2 weeks ago)
 - [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
