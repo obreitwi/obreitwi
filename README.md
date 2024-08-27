@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (5 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (3 weeks ago)
@@ -31,12 +31,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v8.7.0](https://github.com/freiheit-com/kuberpult/releases/tag/v8.7.0), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
-- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 2 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v8.7.0](https://github.com/freiheit-com/kuberpult/releases/tag/v8.7.0), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 3 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
-- [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [fix: handle dots in username/hostname](https://github.com/viperML/nh/pull/140) on [viperML/nh](https://github.com/viperML/nh) (3 weeks ago)
 - [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [azure-cli-extensions.rdbms-connect: init at 1.0.6](https://github.com/NixOS/nixpkgs/pull/317841) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
