@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (6 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 week ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
