@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 weeks ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 months ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (3 months ago)
@@ -43,7 +43,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou] (1 week ago)
+- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou] (2 weeks ago)
 - [kljohann/genpybind](https://github.com/kljohann/genpybind) - Autogeneration of Python bindings from manually annotated C&#43;&#43; headers (2 weeks ago)
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (3 months ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (4 months ago)
