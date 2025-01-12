@@ -10,10 +10,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (today)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 days ago)
 - [obreitwi/advent-of-code-2024-haskell](https://github.com/obreitwi/advent-of-code-2024-haskell) - Advent of Code 2024 using Haskell in nix flake (1 week ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 months ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (5 months ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (5 months ago)
