@@ -43,11 +43,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (today)
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (2 weeks ago)
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units (3 weeks ago)
 - [g0rbe/truenas-acme-hetzner](https://github.com/g0rbe/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (3 weeks ago)
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem. (1 month ago)
-- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou] (3 months ago)
 
 #### 📫 How to reach me
 
