@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (today)
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (1 day ago)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 days ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - Playing around to evaluate NixOS as daily driver. (2 days ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 days ago)
 - [obreitwi/advent-of-code-2024-haskell](https://github.com/obreitwi/advent-of-code-2024-haskell) - Advent of Code 2024 using Haskell in nix flake (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 months ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (6 months ago)
@@ -43,9 +43,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (2 days ago)
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (3 days ago)
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (2 weeks ago)
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units (3 weeks ago)
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units (4 weeks ago)
 - [g0rbe/truenas-acme-hetzner](https://github.com/g0rbe/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (4 weeks ago)
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem. (1 month ago)
 
