@@ -10,10 +10,10 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (today)
-- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
-- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 weeks ago)
+- [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 weeks ago)
 - [obreitwi/advent-of-code-2024-haskell](https://github.com/obreitwi/advent-of-code-2024-haskell) - Advent of Code 2024 using Haskell in nix flake (2 months ago)
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper (7 months ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (7 months ago)
@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.1.2](https://github.com/freiheit-com/kuberpult/releases/tag/v13.1.2), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.1.2](https://github.com/freiheit-com/kuberpult/releases/tag/v13.1.2), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 9 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [hannesg/ordinary-nix-cache](https://github.com/hannesg/ordinary-nix-cache) - Caches nix build results in the github actions cache (1 day ago)
+- [hannesg/ordinary-nix-cache](https://github.com/hannesg/ordinary-nix-cache) - Caches nix build results in the github actions cache (2 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 week ago)
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (3 weeks ago)
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (1 month ago)
