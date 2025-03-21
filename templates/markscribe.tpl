@@ -35,4 +35,6 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/obreitwi
+- Email: `oliver <at> breitwieser.eu`
+- Mastodon: https://norden.social/@obreitwi
+- BlueSky: https://bsky.app/profile/obreitwi.bsky.social
