@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.4.0](https://github.com/freiheit-com/kuberpult/releases/tag/v13.4.0), 2 days ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.4.1](https://github.com/freiheit-com/kuberpult/releases/tag/v13.4.1), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 10 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
