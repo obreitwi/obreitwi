@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (today)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
@@ -31,7 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.7.3](https://github.com/freiheit-com/kuberpult/releases/tag/v13.7.3), today) - Kuberpult helps you manage different versions of different microservices in different cluster.
+- [freiheit-com/kuberpult](https://github.com/freiheit-com/kuberpult) ([v13.7.3](https://github.com/freiheit-com/kuberpult/releases/tag/v13.7.3), 1 day ago) - Kuberpult helps you manage different versions of different microservices in different cluster.
 - [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 10 months ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 week ago)
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim (2 weeks ago)
-- [hannesg/ordinary-nix-cache](https://github.com/hannesg/ordinary-nix-cache) - Caches nix build results in the github actions cache (4 weeks ago)
+- [hannesg/ordinary-nix-cache](https://github.com/hannesg/ordinary-nix-cache) - Caches nix build results in the github actions cache (1 month ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 month ago)
 
