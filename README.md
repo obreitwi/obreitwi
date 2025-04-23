@@ -36,19 +36,19 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (today)
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 months ago)
 - [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (7 months ago)
 - [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (8 months ago)
 - [fix: handle dots in username/hostname](https://github.com/nix-community/nh/pull/140) on [nix-community/nh](https://github.com/nix-community/nh) (8 months ago)
-- [tparse: init at 0.13.3](https://github.com/NixOS/nixpkgs/pull/320878) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (10 months ago)
 
 #### ⭐ Recent Stars
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. (today)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (3 weeks ago)
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim (1 month ago)
 - [hannesg/ordinary-nix-cache](https://github.com/hannesg/ordinary-nix-cache) - Caches nix build results in the github actions cache (1 month ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (2 months ago)
 
 #### 📫 How to reach me
 
