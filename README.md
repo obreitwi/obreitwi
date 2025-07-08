@@ -10,8 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (today)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (today)
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. (today)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 day ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (2 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 months ago)
@@ -30,6 +31,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.42.1](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.42.1), 1 month ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
 
