@@ -30,7 +30,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.42.1](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.42.1), 1 month ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.43.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.43.0), today) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
 
