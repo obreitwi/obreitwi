@@ -18,7 +18,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (3 months ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 months ago)
 - [obreitwi/advent-of-code-2024-haskell](https://github.com/obreitwi/advent-of-code-2024-haskell) - Advent of Code 2024 using Haskell in nix flake (7 months ago)
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf] (11 months ago)
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf] (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (9 months ago)
 - [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (11 months ago)
 - [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (11 months ago)
-- [fix: handle dots in username/hostname](https://github.com/nix-community/nh/pull/140) on [nix-community/nh](https://github.com/nix-community/nh) (11 months ago)
+- [fix: handle dots in username/hostname](https://github.com/nix-community/nh/pull/140) on [nix-community/nh](https://github.com/nix-community/nh) (1 year ago)
 
 #### ⭐ Recent Stars
 
