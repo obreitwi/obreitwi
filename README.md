@@ -10,6 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (4 weeks ago)
@@ -31,6 +32,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.43.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.43.0), 2 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.9.1](https://github.com/nvim-neotest/neotest/releases/tag/v5.9.1), 3 weeks ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
 
