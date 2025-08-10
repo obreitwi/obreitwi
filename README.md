@@ -19,7 +19,6 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 month ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (5 months ago)
 - [obreitwi/advent-of-code-2024-haskell](https://github.com/obreitwi/advent-of-code-2024-haskell) - Advent of Code 2024 using Haskell in nix flake (7 months ago)
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf] (1 year ago)
 
 #### 🌱 My latest projects
 
