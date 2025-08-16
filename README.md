@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (1 week ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (2 weeks ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
@@ -37,7 +37,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (2 weeks ago)
 - [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (3 months ago)
-- [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (9 months ago)
+- [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (10 months ago)
 - [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (11 months ago)
 - [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
 
