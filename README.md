@@ -13,7 +13,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (2 weeks ago)
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (4 weeks ago)
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (1 month ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 month ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. (2 months ago)
@@ -30,7 +30,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.11.1](https://github.com/nvim-neotest/neotest/releases/tag/v5.11.1), today) - An extensible framework for interacting with tests within NeoVim.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.11.1](https://github.com/nvim-neotest/neotest/releases/tag/v5.11.1), 1 day ago) - An extensible framework for interacting with tests within NeoVim.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.44.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.44.0), 1 week ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### ⭐ Recent Stars
 
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs (1 week ago)
-- [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code (4 weeks ago)
+- [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code (1 month ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 month ago)
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (2 months ago)
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92] (4 months ago)
