@@ -10,9 +10,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (3 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 weeks ago)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (4 weeks ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (1 month ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 month ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 months ago)
@@ -31,13 +31,13 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔭 Latest releases I've contributed to
 
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.11.1](https://github.com/nvim-neotest/neotest/releases/tag/v5.11.1), 1 week ago) - An extensible framework for interacting with tests within NeoVim.
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.44.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.44.0), 2 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.44.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.44.0), 3 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
 
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (1 month ago)
 - [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (4 months ago)
-- [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (10 months ago)
+- [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (11 months ago)
 - [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (1 year ago)
 - [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
 
