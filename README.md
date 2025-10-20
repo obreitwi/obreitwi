@@ -10,8 +10,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (today)
+- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (4 days ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 week ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
@@ -36,14 +36,14 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### 🔨 My recent Pull Requests
 
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (2 months ago)
-- [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (5 months ago)
+- [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (6 months ago)
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
 - [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (1 year ago)
 - [tfautomv: 0.5.4 -&gt; 0.6.2](https://github.com/NixOS/nixpkgs/pull/334475) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (today)
+- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (1 day ago)
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs (1 month ago)
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code (2 months ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (2 months ago)
