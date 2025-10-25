@@ -46,7 +46,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (4 days ago)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (4 days ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (4 days ago)
-- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (6 days ago)
+- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr&#43;Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (6 days ago)
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs (2 months ago)
 
 #### 📫 How to reach me
