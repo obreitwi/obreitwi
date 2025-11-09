@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (3 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (4 days ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 weeks ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 weeks ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (1 month ago)
@@ -30,7 +30,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), today) - An extensible framework for interacting with tests within NeoVim.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 1 day ago) - An extensible framework for interacting with tests within NeoVim.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@adobe/react-spectrum@3.45.0](https://github.com/adobe/react-spectrum/releases/tag/%40adobe/react-spectrum%403.45.0), 1 month ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
@@ -47,7 +47,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (2 weeks ago)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (2 weeks ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (2 weeks ago)
-- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr&#43;Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (2 weeks ago)
+- [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr&#43;Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (3 weeks ago)
 
 #### 📫 How to reach me
 
