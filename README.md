@@ -30,7 +30,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.14.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.14.0), 3 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.14.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.14.0), 4 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 1 month ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
@@ -44,9 +44,9 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 #### ⭐ Recent Stars
 
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (1 month ago)
-- [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (1 month ago)
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (1 month ago)
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (1 month ago)
+- [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (2 months ago)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (2 months ago)
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (2 months ago)
 - [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr&#43;Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state. (2 months ago)
 
 #### 📫 How to reach me
