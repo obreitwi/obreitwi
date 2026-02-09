@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (3 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (4 days ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (2 months ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (2 months ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (3 months ago)
@@ -29,12 +29,12 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@react-spectrum/s2@1.1.0](https://github.com/adobe/react-spectrum/releases/tag/%40react-spectrum/s2%401.1.0), 4 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([@react-spectrum/s2@1.1.0](https://github.com/adobe/react-spectrum/releases/tag/%40react-spectrum/s2%401.1.0), 5 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 3 months ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
 
-- [tmux-fzf: unstable-2023-10-24 -&gt; unstable-2025-09-24](https://github.com/NixOS/nixpkgs/pull/460794) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
+- [tmux-fzf: unstable-2023-10-24 -&gt; unstable-2025-09-24](https://github.com/NixOS/nixpkgs/pull/460794) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (6 months ago)
 - [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (9 months ago)
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
