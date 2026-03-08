@@ -29,8 +29,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.16.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.16.0), 3 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 3 months ago) - An extensible framework for interacting with tests within NeoVim.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.16.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.16.0), 4 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 4 months ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
 
@@ -42,7 +42,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (5 days ago)
+- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (6 days ago)
 - [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (2 weeks ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (4 months ago)
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (4 months ago)
