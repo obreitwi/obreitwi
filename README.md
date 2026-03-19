@@ -34,11 +34,11 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
+- [fix: adapt to upstream changes in provider generation](https://github.com/nix-community/nixvim/pull/4219) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (today)
 - [tmux-fzf: unstable-2023-10-24 -&gt; unstable-2025-09-24](https://github.com/NixOS/nixpkgs/pull/460794) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (7 months ago)
-- [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (10 months ago)
+- [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (11 months ago)
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 year ago)
-- [fix: build with go 1.23 by tracking modules.txt](https://github.com/nix-community/gomod2nix/pull/168) on [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) (2 years ago)
 
 #### ⭐ Recent Stars
 
