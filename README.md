@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 week ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (3 months ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (5 months ago)
@@ -34,7 +34,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔨 My recent Pull Requests
 
-- [fix: adapt to upstream changes in provider generation](https://github.com/nix-community/nixvim/pull/4219) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (3 days ago)
+- [fix: adapt to upstream changes in provider generation](https://github.com/nix-community/nixvim/pull/4219) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (4 days ago)
 - [tmux-fzf: unstable-2023-10-24 -&gt; unstable-2025-09-24](https://github.com/NixOS/nixpkgs/pull/460794) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (7 months ago)
 - [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (11 months ago)
@@ -42,7 +42,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (2 weeks ago)
+- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (3 weeks ago)
 - [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (1 month ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (4 months ago)
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (5 months ago)
