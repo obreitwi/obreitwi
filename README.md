@@ -29,8 +29,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.14.3](https://github.com/nvim-neotest/neotest/releases/tag/v5.14.3), today) - An extensible framework for interacting with tests within NeoVim.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.16.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.16.0), 3 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.13.4](https://github.com/nvim-neotest/neotest/releases/tag/v5.13.4), 4 months ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
 
