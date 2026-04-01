@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (3 weeks ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 months ago)
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (5 months ago)
@@ -29,8 +29,8 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.14.3](https://github.com/nvim-neotest/neotest/releases/tag/v5.14.3), 5 days ago) - An extensible framework for interacting with tests within NeoVim.
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.16.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.16.0), 3 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.14.3](https://github.com/nvim-neotest/neotest/releases/tag/v5.14.3), 6 days ago) - An extensible framework for interacting with tests within NeoVim.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.16.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.16.0), 4 weeks ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 
 #### 🔨 My recent Pull Requests
 
@@ -42,7 +42,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### ⭐ Recent Stars
 
-- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (4 weeks ago)
+- [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (1 month ago)
 - [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (1 month ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (5 months ago)
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (5 months ago)
