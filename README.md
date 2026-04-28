@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (1 day ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 month ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (4 months ago)
@@ -37,13 +37,13 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [fix: adapt to upstream changes in provider generation](https://github.com/nix-community/nixvim/pull/4219) on [nix-community/nixvim](https://github.com/nix-community/nixvim) (1 month ago)
 - [tmux-fzf: unstable-2023-10-24 -&gt; unstable-2025-09-24](https://github.com/NixOS/nixpkgs/pull/460794) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
-- [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (8 months ago)
+- [fix(test): reduce test flakiness](https://github.com/nvim-neotest/neotest/pull/529) on [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) (9 months ago)
 - [fix: TableView jump to top on asynchronous load](https://github.com/adobe/react-spectrum/pull/8133) on [adobe/react-spectrum](https://github.com/adobe/react-spectrum) (1 year ago)
 - [pnpm.fetchDeps: ensure consistent hashes by setting file permissions after fetching](https://github.com/NixOS/nixpkgs/pull/350063) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [tkronawitter/truenas-acme-hetzner](https://github.com/tkronawitter/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (1 day ago)
+- [tkronawitter/truenas-acme-hetzner](https://github.com/tkronawitter/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (2 days ago)
 - [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (1 month ago)
 - [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (2 months ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (6 months ago)
