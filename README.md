@@ -17,7 +17,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (7 months ago)
 - [obreitwi/neorg-task-sync](https://github.com/obreitwi/neorg-task-sync) - Sync TODOs from Neorg Journal with Google Tasks (7 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (9 months ago)
-- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (9 months ago)
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. (10 months ago)
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. (11 months ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.18.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.18.0), 4 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) ([react-aria-components@1.18.0](https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.18.0), 5 days ago) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) ([v5.18.0](https://github.com/nvim-neotest/neotest/releases/tag/v5.18.0), 1 month ago) - An extensible framework for interacting with tests within NeoVim.
 
 #### 🔨 My recent Pull Requests
