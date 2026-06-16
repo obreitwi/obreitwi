@@ -10,7 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
-- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (4 days ago)
+- [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (5 days ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (1 month ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (2 months ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (6 months ago)
@@ -45,7 +45,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [tkronawitter/truenas-acme-hetzner](https://github.com/tkronawitter/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (1 month ago)
 - [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (3 months ago)
-- [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (3 months ago)
+- [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (4 months ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (7 months ago)
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (7 months ago)
 
