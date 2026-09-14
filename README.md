@@ -40,7 +40,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 - [tkronawitter/truenas-acme-hetzner](https://github.com/tkronawitter/truenas-acme-hetzner) - ACME DNS-Authenticators for TrueNAS using Hetzner DNS (4 months ago)
 - [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) - wolf3D in Rust (6 months ago)
-- [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (6 months ago)
+- [preiter93/tuigram](https://github.com/preiter93/tuigram) - A TUI sequence diagram editor (7 months ago)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland (10 months ago)
 - [ckaznable/hyprnavi](https://github.com/ckaznable/hyprnavi) - simple horizontal navigation feature for Hyprland (10 months ago)
 
