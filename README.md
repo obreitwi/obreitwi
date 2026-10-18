@@ -14,7 +14,6 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (5 months ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (7 months ago)
 - [obreitwi/dot_vim](https://github.com/obreitwi/dot_vim) - My vim setup in desperate need of plugin detox… (10 months ago)
-- [obreitwi/dotfiles_desktop](https://github.com/obreitwi/dotfiles_desktop) - Additional dotfiles I need in a desktop enviroment. (1 year ago)
 
 #### 🌱 My latest projects
 
