@@ -10,6 +10,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 👷 Check out what I'm currently working on
 
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead. (today)
 - [obreitwi/dot_nixos](https://github.com/obreitwi/dot_nixos) - NixOS as daily driver on desktop &amp; root-server as well as home-manager on top of Ubuntu. (2 days ago)
 - [obreitwi/dot_zsh](https://github.com/obreitwi/dot_zsh) - zsh config files (6 months ago)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (7 months ago)
@@ -25,6 +26,7 @@ Generally, I am interested in machine learning, neuromorphic as well as distribu
 
 #### 🔭 Latest releases I've contributed to
 
+- [obreitwi/asfa](https://github.com/obreitwi/asfa) ([v0.10.0-1](https://github.com/obreitwi/asfa/releases/tag/v0.10.0-1), 2 years ago) - Avoid sending file attachments by uploading them via SSH to a remote site and sharing a publicly-accessible URL with non-guessable (hash-based) prefix instead.
 
 #### 🔨 My recent Pull Requests
 
